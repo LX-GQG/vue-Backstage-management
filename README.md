@@ -11,20 +11,15 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+项目使用的 Vue + Element-ui的语言及框架
+下载完本项目，在终端使用vue的命令即可
+# install dependencies
+npm install
 
-# build for production and view the bundle analyzer report
-npm run build --report
+运行项目输入此命令
+# serve with hot reload at localhost:8080
+npm run dev
 
-# run unit tests
-npm run unit
+以下为项目展示页面
+![输入图片说明](src/assets/img/image.png)
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
