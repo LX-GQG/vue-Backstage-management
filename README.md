@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+后端：https://gitee.com/wr_lx/demos
+
 ## Build Setup
 
 项目使用的 Vue + Element-ui的语言及框架
