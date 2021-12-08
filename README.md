@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-后端：https://gitee.com/wr_lx/demos
+后端：https://github.com/137505556677/-java-springboot
 
 ## Build Setup
 
