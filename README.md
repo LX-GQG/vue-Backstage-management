@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-后端：https://github.com/137505556677/-java-springboot
+后端开源地址：https://github.com/LX-GQG/springboot-Backstage-management
 
 ## Build Setup
 
